@@ -1,0 +1,10 @@
+Always Taken Predictor:
+Correctly Predicted: 4 / 8
+
+Always Not Taken Predictor:
+Correctly Predicted: 4 / 8
+
+Bimodal Predictor (Single-Bit History):
+Table Size 16: Correctly Predicted: 5 / 8
+Table Size 32: Correctly Predicted: 6 / 8
+Table Size 128: Correctly Predicted: 6 / 8
